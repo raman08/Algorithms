@@ -4,7 +4,10 @@
 
 using namespace std;
 
-// For better explaination: https://github.com/raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/blob/master/1_Algorithmic-Toolbox/week4_divide_and_conquer/Study_Material/quick_short.md
+/*
+For better explaination:
+https://github.com/raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/blob/master/1_Algorithmic-Toolbox/week4_divide_and_conquer/Study_Material/quick_short.md
+*/
 
 // Function for the partioning the array
 int partition(vector<int>& arr, int l, int r) {

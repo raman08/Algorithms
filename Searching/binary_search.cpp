@@ -4,7 +4,11 @@
 #include <cmath>
 
 using namespace std;
-// For proper explaination: https://github.com/raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/blob/master/1_Algorithmic-Toolbox/week4_divide_and_conquer/Study_Material/binary_search.md
+
+/*
+For proper explaination:
+https://github.com/raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/blob/master/1_Algorithmic-Toolbox/week4_divide_and_conquer/Study_Material/binary_search.md
+*/
 
 int binary_search_recursive(vector<int> arr, int low, int high, int key) {
 

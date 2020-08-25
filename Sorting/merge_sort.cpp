@@ -4,7 +4,10 @@
 
 using namespace std;
 
-// For details explaination: https://github.com/raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/blob/master/1_Algorithmic-Toolbox/week4_divide_and_conquer/Study_Material/merge_sort.md
+/*
+For details explaination:
+https://github.com/raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/blob/master/1_Algorithmic-Toolbox/week4_divide_and_conquer/Study_Material/merge_sort.md
+*/
 
 // Function to merge two array in sorted form
 vector<int> merge(vector<int> arr_1, vector<int> arr_2) {

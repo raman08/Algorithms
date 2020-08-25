@@ -5,7 +5,10 @@
 
 using namespace std;
 
-// For explaniation : https://github.com/raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/blob/master/1_Algorithmic-Toolbox/week4_divide_and_conquer/Study_Material/selection_sorting.md
+/*
+For explaniation :
+https://github.com/raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/blob/master/1_Algorithmic-Toolbox/week4_divide_and_conquer/Study_Material/selection_sorting.md
+*/
 
 // Function to sort the array
 void selection_sort(vector<int>& arr) {

@@ -4,8 +4,12 @@
 
 using namespace std;
 
-// For better explaination: https://github.com/raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/blob/master/1_Algorithmic-Toolbox/week2_algorithmic_warmup/Study_Material/1_intro_2_fibonaccinumbers3.pdf
+/*
 
+ For better explaination:
+ https://github.com/raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/blob/master/1_Algorithmic-Toolbox/week2_algorithmic_warmup/Study_Material/1_intro_2_fibonaccinumbers3.pdf
+
+*/
 ll fibonacci_series(int n) {
 
 	int previous = 1;
